@@ -25,6 +25,10 @@ git clone https://github.com/Eliott-B/discord.js-utils-commands
 
 This command is used to check if the bot is online.
 
+### `version`
+
+This command is used to check the version of the bot.
+
 ## CONTRIBUTORS
 
 - [Eliott-B](https://github.com/Eliott-B)
