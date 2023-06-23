@@ -8,8 +8,8 @@ This is a collection of commands that I use in my discord bots. I hope you find 
 
 - [Node.js](https://nodejs.org/en/)
 - [Discord.js](https://discord.js.org/#/)
-- A bot like [bot-discord.js-base](https://github.com/Eliott-B/bot-discord.js-base)
-- [Discord.j Modules](https://github.com/Eliott-B/discord.js-modules)
+- [Discord.js Base](https://github.com/Eliott-B/discord.js-base)
+- [Discord.js Modules](https://github.com/Eliott-B/discord.js-modules)
 
 ## INSTALLATION
 
