@@ -9,7 +9,6 @@ This is a collection of commands that I use in my discord bots. I hope you find 
 - [Node.js](https://nodejs.org/en/)
 - [Discord.js](https://discord.js.org/#/)
 - [Discord.js Base](https://github.com/Eliott-B/discord.js-base)
-- [Discord.js Modules](https://github.com/Eliott-B/discord.js-modules)
 
 ## INSTALLATION
 
@@ -20,6 +19,8 @@ git clone https://github.com/Eliott-B/discord.js-utils-commands
 
 2. Copy the folder `commands` in your bot folder.  
 
+**⚠️ WARNING ⚠️**: Add the fields in config.json to your config.json file.
+
 ## COMMANDS
 
 ### `ping`
@@ -29,10 +30,6 @@ This command is used to check if the bot is online.
 ### `version`
 
 This command is used to check the version of the bot.
-
-### `clear`
-
-This command is used to clear messages in a channel.
 
 ## CONTRIBUTORS
 
